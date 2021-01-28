@@ -1,0 +1,6 @@
+package net.masahiro.flutterweb
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
